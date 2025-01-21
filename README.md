@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **isurukawshika@gmail.com**
 
+ `maroongold` ![maroongold][maroongold_repo] 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/isuru-kaushika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuru-kaushika" height="30" width="40" /></a>
