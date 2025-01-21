@@ -8,6 +8,15 @@
 - 📫 How to reach me **isurukawshika@gmail.com**
 
 
+
+Here are my GitHub stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsuruKaushika&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=maroongold)
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/isuru-kaushika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuru-kaushika" height="30" width="40" /></a>
