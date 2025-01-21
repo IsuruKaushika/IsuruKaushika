@@ -8,6 +8,7 @@
 - 📫 How to reach me **isurukawshika@gmail.com**
 
  `maroongold` ![maroongold][maroongold_repo] 
+ [maroongold]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=maroongold
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
