@@ -6,13 +6,6 @@
 - 🌱 I’m currently learning **Embedded Systems,Robotics**
 
 - 📫 How to reach me **isurukawshika@gmail.com**
-# Welcome to My GitHub Profile!
-
-Here are my GitHub stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=maroongold)
-
-Thanks for visiting!
 
 
 <h3 align="left">Connect with me:</h3>
