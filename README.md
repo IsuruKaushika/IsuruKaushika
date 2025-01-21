@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isurukaushika&label=Profile%20views&color=0e75b6&style=flat" alt="isurukaushika" /> </p>
 
-- 🌱 I’m currently learning **Embedded Systems,Robotics**
+- 🌱 I’m currently learning **Embedded Systems,Robotics*
 
 - 📫 How to reach me **isurukawshika@gmail.com**
 
