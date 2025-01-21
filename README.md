@@ -8,13 +8,11 @@
 - 📫 How to reach me **isurukawshika@gmail.com**
 
 
-
 Here are my GitHub stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsuruKaushika&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=maroongold)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=maroongold)
 
-
-
+Thanks for visiting!
 
 
 <h3 align="left">Connect with me:</h3>
